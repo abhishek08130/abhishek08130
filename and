@@ -1,0 +1,24 @@
+ <svg width="200" height="200" viewBox="0 0 200 200">
+        <g id="android" fill="#3DDC84">
+            <!-- Head -->
+            <path d="M65,100 A35,35 0 0,1 135,100 L135,99 L65,99 Z" />
+            <!-- Body -->
+            <rect x="65" y="105" width="70" height="60" rx="10"/>
+            
+            <!-- Arms -->
+            <rect x="47" y="110" width="13" height="50" rx="5"/>
+            <rect x="140" y="110" width="13" height="50" rx="5"/>
+
+            <!-- Legs -->
+            <rect x="75" y="163" width="20" height="40" rx="5"/>
+            <rect x="105" y="163" width="20" height="40" rx="5"/>
+            
+            <!-- Eyes -->
+            <circle cx="85" cy="80" r="5" fill="white"/>
+            <circle cx="115" cy="80" r="5" fill="white"/>
+            
+            <!-- Antennae -->
+            <line x1="75" y1="35" x2="85" y2="55" stroke="#3DDC84" stroke-width="3"/>
+            <line x1="130" y1="35" x2="115" y2="55" stroke="#3DDC84" stroke-width="3"/>
+        </g>
+    </svg>
