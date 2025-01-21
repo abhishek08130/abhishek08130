@@ -65,7 +65,7 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/abhishek08130/abhishek08130/blob/main/and.svg" width="48" height="48" alt="android" />
+        <img src="https://abhishek08130.github.io/abhishek08130/output-onlinegiftools%20(3).gif" width="48" height="48" alt="android" />
       <br>Android
     </td>
     <td align="center" width="96">
