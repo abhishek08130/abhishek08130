@@ -65,6 +65,10 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
+        <img src="and.svg" width="48" height="48" alt="jquery" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
       <br>ASP.NET
     </td>
